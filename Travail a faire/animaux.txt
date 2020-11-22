@@ -1,0 +1,5 @@
+12fdr4 femele vache 12 2 1999
+12fdr5 male chevre 30 1 2000
+12fdr6 femele mouton 29 2 2020
+3fjjjjj male vache 1 2 2001
+3faaaaa male chevre 30 1 2005
